@@ -1,0 +1,22 @@
+# Dataset
+/data/
+/mmnist-easy-images/
+
+# Generated training outputs
+/mmnist/
+/video_latents/
+/vae_latents/
+*/vae_autoencoder_samples/
+*/samples/
+*.pth
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
